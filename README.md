@@ -1,4 +1,4 @@
-# Enterprise Cloud Platform
+# Enterprise-Asset-Management-Platform
 
 > A production-oriented reference architecture demonstrating how to design, build, secure, deploy, and operate a modern enterprise cloud platform on AWS.
 
