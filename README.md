@@ -2,20 +2,32 @@
 
 ## Overview
 
-## Business Problem
+This repository demonstrates a production-oriented reference architecture for a secure, scalable enterprise cloud platform running on AWS.
 
-## Architecture
+The goal is to showcase Solution Architecture, Platform Engineering, DevOps, and Infrastructure as Code practices.
 
-## Technology Stack
+## Planned Technology Stack
 
-## Features
+- AWS
+- .NET 8 Web API
+- React
+- Terraform
+- Docker
+- GitHub Actions
+- PostgreSQL
+- OpenTelemetry
 
-## Security
+## Planned Capabilities
 
-## Infrastructure
+- Authentication
+- Role-Based Access Control (RBAC)
+- REST APIs
+- Audit Logging
+- CI/CD
+- Infrastructure as Code
+- Monitoring
+- Secure Deployment
 
-## Deployment
+## Project Status
 
-## Monitoring
-
-## Roadmap
+🚧 In Progress
